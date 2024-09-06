@@ -7,6 +7,7 @@
 </head>
 <body>
     <h1>Hello world!</h1>
+    <p>Info</p>
     <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Numquam nam pariatur eos dolorum autem dolore ipsum, saepe quae perspiciatis, ut porro illum dolorem ratione rem amet, dicta omnis suscipit beatae!</p>
 </body>
 </html>
